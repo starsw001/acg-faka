@@ -17,6 +17,10 @@ docker
 nohup.out
 /.idea/
 .idea/
+/runtime
 ./runtime
+/assets/cache
 ./assets/cache
+/kernel/Install/Lock
+./kernel/Install/Lock
 
